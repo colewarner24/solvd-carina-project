@@ -1,0 +1,108 @@
+{
+  "name": "topic12new",
+  "commit": {
+    "sha": "ba6803c61f04e2506e7e8106cc16bc8769f61531",
+    "node_id": "C_kwDOM6oxB9oAKGJhNjgwM2M2MWYwNGUyNTA2ZTdlODEwNmNjMTZiYzg3NjlmNjE1MzE",
+    "commit": {
+      "author": {
+        "name": "Cole Warner",
+        "email": "74276573+colewarner24@users.noreply.github.com",
+        "date": "2024-10-07T22:12:01Z"
+      },
+      "committer": {
+        "name": "GitHub",
+        "email": "noreply@github.com",
+        "date": "2024-10-07T22:12:01Z"
+      },
+      "message": "Merge branch 'main' into topic12",
+      "tree": {
+        "sha": "ba59118b6538966ce77ccbbd08e894d43dcb263d",
+        "url": "https://api.github.com/repos/colewarner24/solvd_ta_part_2/git/trees/ba59118b6538966ce77ccbbd08e894d43dcb263d"
+      },
+      "url": "https://api.github.com/repos/colewarner24/solvd_ta_part_2/git/commits/ba6803c61f04e2506e7e8106cc16bc8769f61531",
+      "comment_count": 0,
+      "verification": {
+        "verified": true,
+        "reason": "valid",
+        "signature": "-----BEGIN PGP SIGNATURE-----\n\nwsFcBAABCAAQBQJnBFyxCRC1aQ7uu5UhlAAAnHoQAAisDVYkxJV5PSlED37WBawp\nv8cowfBtZYiYWai0mMfoVeKjegcg/6z8NVCBXFqQs9PPCQKPMUh6JY0349XVQDi6\nLdPWdkBt3MpgTkHtjP8Gaz/BN+8fS3S/loaaHiWGPs3PKaA5XQS0aCgBt6UrzpkG\nc/As6VWHSd+/UGQg3XNAKvZWzR8BLN7znscUQ5wDMohViV4KKR54IyjmSjot4QGs\nLP7Icf4aKssemCAxq2RKETb/CAIvvFTH0a6mNzg0k6dR65VrvlqBFcbcbbGUneNi\n2uhTBOIttwjVHg10n5BuRK9IOuB6k4k9EqhLMWsm226FACl4wGxwTwqoLV8OMFL5\nibG+XPuWEoxLn1etvLOTW+DiAPObdXFhDyRrI9qJSP0YG3U+UOxyVEelIqgwn21I\nVd+krBPrDXudJUNP/hemFdzf23cEkvZqB9J74lo/dDgllxvJ1rXNVS9TTL5O4JWb\neKf3uCg3cl4vE7NqRQSFD8yFQErZQQ037Q/azSMAKTzm/jUKS0ST0mVgbv75372F\nDfe+PvM4sPSmku4mqLKGYdM+yQeaYdmgemHi4JCnsKiiR5cRYMqrKk7GD3dJ2CY3\n2kUckSNcv879NtSIchEvFCmQaozxJsa/3nIbLiJ4KGfCdyay9C66TkJXGY4nRbT/\nWFYo9Gzdufv0ZsCEr64N\n=Uum1\n-----END PGP SIGNATURE-----\n",
+        "payload": "tree ba59118b6538966ce77ccbbd08e894d43dcb263d\nparent 5c4a38defe6965ef4e3b90307978ddce70e47493\nparent f70b01bcc185bcb33553fd7504a93d0ae1d17ca7\nauthor Cole Warner <74276573+colewarner24@users.noreply.github.com> 1728339121 -0400\ncommitter GitHub <noreply@github.com> 1728339121 -0400\n\nMerge branch 'main' into topic12",
+        "verified_at": "2024-11-19T19:00:13Z"
+      }
+    },
+    "url": "https://api.github.com/repos/colewarner24/solvd_ta_part_2/commits/ba6803c61f04e2506e7e8106cc16bc8769f61531",
+    "html_url": "https://github.com/colewarner24/solvd_ta_part_2/commit/ba6803c61f04e2506e7e8106cc16bc8769f61531",
+    "comments_url": "https://api.github.com/repos/colewarner24/solvd_ta_part_2/commits/ba6803c61f04e2506e7e8106cc16bc8769f61531/comments",
+    "author": {
+      "login": "colewarner24",
+      "id": 74276573,
+      "node_id": "MDQ6VXNlcjc0Mjc2NTcz",
+      "avatar_url": "https://avatars.githubusercontent.com/u/74276573?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/colewarner24",
+      "html_url": "https://github.com/colewarner24",
+      "followers_url": "https://api.github.com/users/colewarner24/followers",
+      "following_url": "https://api.github.com/users/colewarner24/following{/other_user}",
+      "gists_url": "https://api.github.com/users/colewarner24/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/colewarner24/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/colewarner24/subscriptions",
+      "organizations_url": "https://api.github.com/users/colewarner24/orgs",
+      "repos_url": "https://api.github.com/users/colewarner24/repos",
+      "events_url": "https://api.github.com/users/colewarner24/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/colewarner24/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "committer": {
+      "login": "web-flow",
+      "id": 19864447,
+      "node_id": "MDQ6VXNlcjE5ODY0NDQ3",
+      "avatar_url": "https://avatars.githubusercontent.com/u/19864447?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/web-flow",
+      "html_url": "https://github.com/web-flow",
+      "followers_url": "https://api.github.com/users/web-flow/followers",
+      "following_url": "https://api.github.com/users/web-flow/following{/other_user}",
+      "gists_url": "https://api.github.com/users/web-flow/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/web-flow/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/web-flow/subscriptions",
+      "organizations_url": "https://api.github.com/users/web-flow/orgs",
+      "repos_url": "https://api.github.com/users/web-flow/repos",
+      "events_url": "https://api.github.com/users/web-flow/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/web-flow/received_events",
+      "type": "User",
+      "user_view_type": "public",
+      "site_admin": false
+    },
+    "parents": [
+      {
+        "sha": "5c4a38defe6965ef4e3b90307978ddce70e47493",
+        "url": "https://api.github.com/repos/colewarner24/solvd_ta_part_2/commits/5c4a38defe6965ef4e3b90307978ddce70e47493",
+        "html_url": "https://github.com/colewarner24/solvd_ta_part_2/commit/5c4a38defe6965ef4e3b90307978ddce70e47493"
+      },
+      {
+        "sha": "f70b01bcc185bcb33553fd7504a93d0ae1d17ca7",
+        "url": "https://api.github.com/repos/colewarner24/solvd_ta_part_2/commits/f70b01bcc185bcb33553fd7504a93d0ae1d17ca7",
+        "html_url": "https://github.com/colewarner24/solvd_ta_part_2/commit/f70b01bcc185bcb33553fd7504a93d0ae1d17ca7"
+      }
+    ]
+  },
+  "_links": {
+    "self": "https://api.github.com/repos/colewarner24/solvd_ta_part_2/branches/topic12new",
+    "html": "https://github.com/colewarner24/solvd_ta_part_2/tree/topic12new"
+  },
+  "protected": false,
+  "protection": {
+    "enabled": false,
+    "required_status_checks": {
+      "enforcement_level": "off",
+      "contexts": [
+
+      ],
+      "checks": [
+
+      ]
+    }
+  },
+  "protection_url": "https://api.github.com/repos/colewarner24/solvd_ta_part_2/branches/topic12new/protection"
+}

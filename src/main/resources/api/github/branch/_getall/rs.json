@@ -1,0 +1,128 @@
+[
+  {
+    "name": "main",
+    "commit": {
+      "sha": "d65f5be24f4ed43330e9674f7908bfdb878eea4d",
+      "url": "https://api.github.com/repos/colewarner24/solvd_ta_part_2/commits/d65f5be24f4ed43330e9674f7908bfdb878eea4d"
+    },
+    "protected": false,
+    "protection": {
+      "enabled": false,
+      "required_status_checks": {
+        "enforcement_level": "off",
+        "contexts": [
+
+        ],
+        "checks": [
+
+        ]
+      }
+    },
+    "protection_url": "https://api.github.com/repos/colewarner24/solvd_ta_part_2/branches/main/protection"
+  },
+  {
+    "name": "topic12",
+    "commit": {
+      "sha": "ba6803c61f04e2506e7e8106cc16bc8769f61531",
+      "url": "https://api.github.com/repos/colewarner24/solvd_ta_part_2/commits/ba6803c61f04e2506e7e8106cc16bc8769f61531"
+    },
+    "protected": false,
+    "protection": {
+      "enabled": false,
+      "required_status_checks": {
+        "enforcement_level": "off",
+        "contexts": [
+
+        ],
+        "checks": [
+
+        ]
+      }
+    },
+    "protection_url": "https://api.github.com/repos/colewarner24/solvd_ta_part_2/branches/topic12/protection"
+  },
+  {
+    "name": "topic13",
+    "commit": {
+      "sha": "62569e3b48765730bdb0e86075bd1ca9047dbf9d",
+      "url": "https://api.github.com/repos/colewarner24/solvd_ta_part_2/commits/62569e3b48765730bdb0e86075bd1ca9047dbf9d"
+    },
+    "protected": false,
+    "protection": {
+      "enabled": false,
+      "required_status_checks": {
+        "enforcement_level": "off",
+        "contexts": [
+
+        ],
+        "checks": [
+
+        ]
+      }
+    },
+    "protection_url": "https://api.github.com/repos/colewarner24/solvd_ta_part_2/branches/topic13/protection"
+  },
+  {
+    "name": "topic14_xml",
+    "commit": {
+      "sha": "c0290d85d288861ee7d174cb8aeda287bc1c63d2",
+      "url": "https://api.github.com/repos/colewarner24/solvd_ta_part_2/commits/c0290d85d288861ee7d174cb8aeda287bc1c63d2"
+    },
+    "protected": false,
+    "protection": {
+      "enabled": false,
+      "required_status_checks": {
+        "enforcement_level": "off",
+        "contexts": [
+
+        ],
+        "checks": [
+
+        ]
+      }
+    },
+    "protection_url": "https://api.github.com/repos/colewarner24/solvd_ta_part_2/branches/topic14_xml/protection"
+  },
+  {
+    "name": "topic15_mybatis",
+    "commit": {
+      "sha": "2bc1fd5defee289cbbd9b3307a4bc162d907a57b",
+      "url": "https://api.github.com/repos/colewarner24/solvd_ta_part_2/commits/2bc1fd5defee289cbbd9b3307a4bc162d907a57b"
+    },
+    "protected": false,
+    "protection": {
+      "enabled": false,
+      "required_status_checks": {
+        "enforcement_level": "off",
+        "contexts": [
+
+        ],
+        "checks": [
+
+        ]
+      }
+    },
+    "protection_url": "https://api.github.com/repos/colewarner24/solvd_ta_part_2/branches/topic15_mybatis/protection"
+  },
+  {
+    "name": "topic16_designpatterns",
+    "commit": {
+      "sha": "5fd8e157e2e0c35f359e7f4c5aa9cf3240d1a524",
+      "url": "https://api.github.com/repos/colewarner24/solvd_ta_part_2/commits/5fd8e157e2e0c35f359e7f4c5aa9cf3240d1a524"
+    },
+    "protected": false,
+    "protection": {
+      "enabled": false,
+      "required_status_checks": {
+        "enforcement_level": "off",
+        "contexts": [
+
+        ],
+        "checks": [
+
+        ]
+      }
+    },
+    "protection_url": "https://api.github.com/repos/colewarner24/solvd_ta_part_2/branches/topic16_designpatterns/protection"
+  }
+]
