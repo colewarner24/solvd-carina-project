@@ -1,14 +1,14 @@
-package com.zebrunner.carina.demo.api.github;
+package com.zebrunner.carina.demo.api.github.methods;
 
 import com.zebrunner.carina.api.AbstractApiMethodV2;
 import com.zebrunner.carina.utils.config.Configuration;
 
-public class RenameBranchMethod extends AbstractApiMethodV2 {
+public abstract class GithubBaseMethod extends AbstractApiMethodV2 {
 
-    public RenameBranchMethod() {
-        super("api/github/branch/_rename/rq.json", "api/github/branch/_rename/rs.json");
+    public GithubBaseMethod(String rqPath, String rsPath) {
+        super(rqPath, rsPath);
         replaceUrlPlaceholder("base_url", Configuration.getRequired("api_url"));
+        request.header("Accept", "application/vnd.github.v3+json");
         request.header("Authorization", "Bearer " + Configuration.getRequired("github_token"));
     }
-
 }

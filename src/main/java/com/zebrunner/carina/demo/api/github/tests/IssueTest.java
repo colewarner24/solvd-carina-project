@@ -1,9 +1,12 @@
-package com.zebrunner.carina.demo.api.github;
+package com.zebrunner.carina.demo.api.github.tests;
 
-import com.zebrunner.carina.api.apitools.builder.PropertiesProcessor;
 import com.zebrunner.carina.api.http.HttpResponseStatusType;
 import com.zebrunner.carina.core.AbstractTest;
 import com.zebrunner.carina.core.registrar.ownership.MethodOwner;
+import com.zebrunner.carina.demo.api.github.methods.DeleteIssueMethod;
+import com.zebrunner.carina.demo.api.github.methods.GetIssueMethod;
+import com.zebrunner.carina.demo.api.github.methods.PatchIssueMethod;
+import com.zebrunner.carina.demo.api.github.methods.PostIssueMethod;
 import org.testng.annotations.Test;
 
 public class IssueTest extends AbstractTest {
