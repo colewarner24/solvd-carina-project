@@ -22,7 +22,7 @@
 
 		<java.version>11</java.version>
 		<zebrunner-agent.version>1.9.8</zebrunner-agent.version>
-		<suite>helloWorld</suite>
+		<suite>GithubSuite</suite>
 	</properties>
 
 	<!--repositories>
@@ -156,7 +156,7 @@
 					<argLine>-javaagent:${project.build.directory}/agent/zebrunner-agent.jar</argLine>
 					<useSystemClassLoader>false</useSystemClassLoader>
 					<suiteXmlFiles>
-						<suiteXmlFile>${project.build.directory}/test-classes/testng_suites/${suite}.xml</suiteXmlFile>
+						<suiteXmlFile>${project.build.directory}/test-classes/testng_suites/GithubSuite.xml</suiteXmlFile>
 					</suiteXmlFiles>
 				</configuration>
 			</plugin>
