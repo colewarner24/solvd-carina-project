@@ -1,5 +1,11 @@
 # solvd carina testing project
 
+## android testing files
+
+[pages and components](https://github.com/colewarner24/solvd-carina-project/tree/main/src/main/java/com/zebrunner/carina/demo/swaglabs)
+
+[tests](https://github.com/colewarner24/solvd-carina-project/blob/main/src/test/java/android_tests/UserTest.java)
+
 ## web testing files
 
 [pages and components](https://github.com/colewarner24/solvd-carina-project/tree/main/src/main/java/com/zebrunner/carina/demo/web)
@@ -16,3 +22,4 @@
 [tests](https://github.com/colewarner24/solvd-carina-project/tree/main/src/main/resources/api/github)
 
 [dockerfile](https://github.com/colewarner24/solvd-carina-project/blob/main/Dockerfile)
+
